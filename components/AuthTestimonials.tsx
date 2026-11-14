@@ -6,13 +6,13 @@ import { useEffect, useState } from 'react';
 const TESTIMONIALS = [
   {
     quote:
-      'Signalist turned my watchlist into a winning list. The alerts are spot-on, and I feel more confident making moves in the market',
+      'Stockpulse turned my watchlist into a winning list. The alerts are spot-on, and I feel more confident making moves in the market',
     author: 'Ethan R.',
     role: 'Retail Investor',
   },
   {
     quote:
-      'I used to miss breakouts while switching between apps. Signalist keeps me focused on the stocks that actually matter.',
+      'I used to miss breakouts while switching between apps. Stockpulse keeps me focused on the stocks that actually matter.',
     author: 'Maya L.',
     role: 'Day Trader',
   },

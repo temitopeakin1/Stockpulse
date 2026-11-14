@@ -1,6 +1,6 @@
-# Signalist
+# Stockpulse
 
-Signalist is a modern stock market tracking app. It helps users monitor markets, search stocks, manage a personal watchlist, and get AI-assisted news summaries and email alerts.
+Stockpulse is a modern stock market tracking app. It helps users monitor markets, search stocks, manage a personal watchlist, and get AI-assisted news summaries and email alerts.
 
 ## Features
 
@@ -81,7 +81,7 @@ If `MONGODB_URI` is not set, the app runs in **demo mode** (no database required
 
 | Field    | Value               |
 | -------- | ------------------- |
-| Email    | `demo@signalist.app` |
+| Email    | `demo@stockpulse.app` |
 | Password | `demo1234`          |
 
 These credentials are also shown on the sign-in page.

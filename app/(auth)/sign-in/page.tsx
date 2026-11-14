@@ -8,7 +8,7 @@ import { signInWithEmail } from "@/lib/actions/auth.actions";
 import {toast} from "sonner";
 import {useRouter} from "next/navigation";
 
-const DEMO_EMAIL = 'demo@signalist.app';
+const DEMO_EMAIL = 'demo@stockpulse.app';
 const DEMO_PASSWORD = 'demo1234';
 
 const SignIn = () => {
@@ -74,7 +74,7 @@ const SignIn = () => {
                 <InputField
                     name="email"
                     label="Email"
-                    placeholder="contact@jsmastery.com"
+                    placeholder="demo@stockpulse.app"
                     register={register}
                     error={errors.email}
                     validation={{ required: 'Email is required', pattern: /^\w+@\w+\.\w+$/ }}

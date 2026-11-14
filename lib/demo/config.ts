@@ -1,7 +1,7 @@
-export const DEMO_SESSION_COOKIE = 'signalist_demo_session';
+export const DEMO_SESSION_COOKIE = 'stockpulse_demo_session';
 
 export const DEMO_CREDENTIALS = {
-  email: 'demo@signalist.app',
+  email: 'demo@stockpulse.app',
   password: 'demo1234',
 } as const;
 
